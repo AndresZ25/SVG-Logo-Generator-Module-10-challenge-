@@ -1,4 +1,4 @@
-# SVG LOGO Genrator!!! (Module-10 ) 
+# SVG LOGO Generator!!! (Module-10 ) 
 
 
 ## Description

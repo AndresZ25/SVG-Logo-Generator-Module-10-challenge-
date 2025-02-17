@@ -1,0 +1,17 @@
+{
+    "name": "logo-generator",
+    "version": "1.0.0",
+    "description": "A command-line app to generate an SVG logo based on user input",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "dependencies": {
+        "inquirer": "^8.2.6"
+    },
+    "devDependencies": {
+        "jest": "^29.7.0"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+}

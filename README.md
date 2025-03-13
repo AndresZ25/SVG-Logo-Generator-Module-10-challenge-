@@ -65,3 +65,6 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 * Here is the video to show it functioning 
 https://app.screencastify.com/v3/watch/hEEpShcwPn7R33NhTpuq
+
+
+![alt text](logo.svg)

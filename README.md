@@ -72,5 +72,4 @@ https://app.screencastify.com/v3/watch/hEEpShcwPn7R33NhTpuq
 
 
 
-
-![alt text](logo.svg)
+![photo/logo.svg](logo.svg)

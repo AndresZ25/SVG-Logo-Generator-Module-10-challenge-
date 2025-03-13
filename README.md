@@ -67,4 +67,10 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 https://app.screencastify.com/v3/watch/hEEpShcwPn7R33NhTpuq
 
 
+
+![alt text](photo/image.png)
+
+
+
+
 ![alt text](logo.svg)
